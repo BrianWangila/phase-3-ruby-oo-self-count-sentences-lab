@@ -26,7 +26,6 @@ class String
       filtered.size
   end
 end
-"this is me. is? me!".count_sentences
 
 
 class String
